@@ -12,15 +12,15 @@ public class Lugar {
     }
     
     public void viajar(){
-        System.out.println();
+        System.out.println("Viajar para algum lugar");
     }
     
     public void visitar(){
-        System.out.println();
+        System.out.println("Visitar algum ponto turistico");
     }
     
     public void repousar(){
-        System.out.println();
+        System.out.println("Fazer check-in na hospedagem");
     }
 
     public String getLocal() {
