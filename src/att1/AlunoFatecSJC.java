@@ -12,15 +12,15 @@ public class AlunoFatecSJC {
     }
     
     public void nomear(){
+        System.out.println("Nomear a ficha do aluno");
+    }
+    
+    public void cadastrar("Fazer o cadastro do aluno"){
         System.out.println();
     }
     
-    public void cadastrar(){
-        System.out.println();
-    }
-    
-    public void atricular(){
-        System.out.println();
+    public void matricular(){
+        System.out.println("Matricular o aluno");
     }
     
     public void setNome(String nome){
