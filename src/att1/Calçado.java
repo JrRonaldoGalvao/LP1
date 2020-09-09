@@ -13,14 +13,14 @@ public class Calçado {
     }
     
     public void provar(){
-        System.out.println();
+        System.out.println("Ver se o calçado serve no pé");
     }
     
     public void personalizar(){
-        System.out.println();
+        System.out.println("Fazer modificações no calçado");
     }
     
-    public void encomendar(){
+    public void encomendar("Encomendar um calçado online"){
         System.out.println();
     }
 
