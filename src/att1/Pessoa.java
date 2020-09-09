@@ -12,15 +12,15 @@ public class Pessoa {
     }
 
     public void nomear(){
-        System.out.println();
+        System.out.println("Nomear alguem");
     }
     
     public void pesar(){
-        System.out.println();
+        System.out.println("Se pesar na balança");
     }
     
     public void medir(){
-        System.out.println();
+        System.out.println("Se medir com o auxilio de algum instrumento proprio");
     }
 
     public String getNome() {
