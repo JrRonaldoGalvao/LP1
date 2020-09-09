@@ -13,15 +13,15 @@ public class Profissional {
     }
     
     public void gerenciar(){
-        System.out.println();
+        System.out.println("Gerenciar um projeto");
     }
     
     public void assistenciar(){
-        System.out.println();
+        System.out.println("Ajudar alguem");
     }
     
     public void liderar(){
-        System.out.println();
+        System.out.println("Liderar uma equipe");
     }
 
     public String getProfissão() {
