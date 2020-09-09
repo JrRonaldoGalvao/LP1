@@ -10,6 +10,18 @@ public class InstrumentoMusical {
         this.tipo = tipo;
         this.peso = peso;
     }
+    
+    public void tocar(){
+        System.out.println("Tocar o instrumento");
+    }
+    
+    public void personalizar(){
+        System.out.println("Mudar peças do instrumento");
+    }
+    
+    public void consertar(){
+        System.out.println("Fazer a manutenção do instrumento");
+    }
 
     public String getNome() {
         return nome;
